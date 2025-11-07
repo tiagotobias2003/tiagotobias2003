@@ -14,8 +14,7 @@
 <div align="center">
   <a href="https://github.com/tiagotobias2003">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiagotobias2003&theme=graywhite">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=tiagotobias2003&show_icons=true&theme=graywhite">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagotobias2003&layout=compact&theme=graywhite">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagotobias2003&layout=compact&theme=graywhite">
 </div>
 
 ## Skills 👨‍💻
