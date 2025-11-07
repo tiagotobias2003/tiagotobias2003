@@ -1,15 +1,13 @@
 # Tiago Tobias
 
-👨‍💼
-
-CEO da Lunaltas Tecnologia desde 2012.
+👨‍💼 CEO of Lunaltas Tecnologia since 2012.
 
 ## About me
 
-<p>★ Meu nome é Tiago Tobias;</p>
-<p>★ Lidero a Lunaltas Tecnologia;</p>
-<p>★ Atuo como CEO desde 2012;</p>
-<p>★ Vivo em Natal/RN - Brasil;</p>
+<p>★ My name is Tiago Tobias;</p>
+<p>★ I lead Lunaltas Tecnologia;</p>
+<p>★ I have worked as CEO since 2012;</p>
+<p>★ I live in Natal/RN - Brazil;</p>
 
 ## Statistics 📊
 
