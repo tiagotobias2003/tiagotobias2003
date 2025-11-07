@@ -1,16 +1,81 @@
-## Hi there 👋
+# Tiago Tobias
 
-<!--
-**tiagotobias2003/tiagotobias2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💼
 
-Here are some ideas to get you started:
+CEO da Lunaltas Tecnologia desde 2012.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+<p>★ Meu nome é Tiago Tobias;</p>
+<p>★ Lidero a Lunaltas Tecnologia;</p>
+<p>★ Atuo como CEO desde 2012;</p>
+<p>★ Vivo em Natal/RN - Brasil;</p>
+
+## Statistics 📊
+
+<div align="center">
+  <a href="https://github.com/tiagotobias2003">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiagotobias2003&theme=radical">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=tiagotobias2003&show_icons=true&theme=radical">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagotobias2003&layout=compact&theme=radical">
+</div>
+
+## Skills 👨‍💻
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,ruby,rails,python,django,java,spring,arduino,c,cpp,bootstrap,heroku,html,js,jquery,nginx,nuxtjs,opencv,postgres,postman,raspberrypi" />
+  </a>
+</p>
+
+
+## Tools 🧰
+
+- Ruby
+- Rails
+- Linux/Unix
+- Git
+- Github
+- Docker
+- Python
+- Django
+- OpenCV
+- Java
+- Spring
+
+## Social Media
+
+- Website: [https://www.lunaltas.com](https://www.lunaltas.com)
+- ORCID: [https://orcid.org/0000-0002-4755-1745](https://orcid.org/0000-0002-4755-1745)
+
+## Popular Repositories
+
+1. **redmine**  
+   Forked from edavis10/redmine  
+   Redmine is a flexible project management web application written using Ruby on Rails framework. [Link](http://github.com/edavis10/redmine)
+
+2. **correios-api**  
+   Forked from guilhermechapiewski/correios-api  
+   API Ruby e REST para obter informações de encomendas/Sedex dos Correios.
+
+3. **ruby-bluetooth**  
+   Forked from mergulhao/ruby-bluetooth  
+   Bluetooth bindings for Ruby
+
+4. **rbluez**  
+   Forked from cfiorini/rbluez  
+   ruby bindings for bluez
+
+5. **ruby-unix**  
+   Forked from danielvlopes/ruby-unix  
+   Step by Step guides to install Ruby on Unix SO's
+
+6. **complex-form-examples**  
+   Forked from ryanb/complex-form-examples  
+   Various ways to handle multi-model forms in Rails.
+
+##
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tiagotobias2003&label=Profile%20views&color=fe428e&style=background:#3630a3;color:white;">
+</div>
